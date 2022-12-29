@@ -50,7 +50,7 @@ When opening the programm it will print the following information on how to effe
  *The translator consists of two windows.  
  One of the windows is used to mark the part of the screen one wishes to translate and is trasparent.*
 
-* The other is used at first as a menu.  
+ *The other is used at first as a menu.  
  But after the button "Ready" has been pressed it acts as a container to display the translated text.*
  
 *--------------------------------------*
