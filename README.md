@@ -1,1 +1,1 @@
-# Simple-subtitle-translator
+# Simple subtitle translator
