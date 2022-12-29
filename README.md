@@ -12,10 +12,10 @@ A simple subtitle translator using python, tesseract and Google translate!
 1. Download the Sub_translatorV3.zip file and unzip it. 
 
 2. Open the folder and find the Sub_translatorV3 executable.  
-![tutorial1](tutorial1.png) 
-
-3. Click on it and it should start. (Note: when you open it for the first time you might get a security warning since windows doesn't know the contents of the executable)    
-![tutorial2](tutorial2.png)
+      <img src="tutorial1.png" width=75% height=75%>
+3. Click on it and it should start. (Note: when you open it for the first time you might get a security warning since windows doesn't know the contents of the executable)   
+ 
+      <img src="tutorial2.png" width=50% height=50%>
 
 In that case simply click "more info", then click "run anyway".
 
