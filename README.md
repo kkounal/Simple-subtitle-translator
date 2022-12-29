@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 # Simple subtitle translator
 
 A simple subtitle translator using python, tesseract and Google translate! 
@@ -36,7 +37,7 @@ In that case simply click "more info", then click "run anyway".
 
 ## How to use
 
-When opening the programm it will print the following information on how to effectively use it:  
+When opening the programm it will print the following information on how to effectively use it. If you have any other questions or requests feel free to ask me.  
 
  *Subtitle traslator V3  
  A simple tool built for translating subtitles in real time  
@@ -83,3 +84,5 @@ When opening the programm it will print the following information on how to effe
  These include the subtitle display color, target subtitle color and all language settings.*
 
  *Restore default: Restores default settings.*
+ 
+ <p align="right">(<a href="#readme-top">back to top</a>)</p>
