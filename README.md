@@ -33,7 +33,7 @@ In that case simply click "more info", then click "run anyway".
 3. (Make sure you have python and all modules imported installed on your machine.)  
 4. Ready to go. 
 
-(NOte that this software has been tested for windows 10. If you find an issue when using another platform let me know.)
+(Note that this software has been tested for windows 10. If you find an issue when using another platform let me know.)
 
 ## How to use
 
