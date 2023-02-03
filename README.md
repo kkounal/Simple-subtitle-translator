@@ -3,6 +3,8 @@
 
 A simple subtitle translator using python, tesseract and Google translate! 
 
+A little janky rn, will rewrite in rust when i feel like it. 
+
 ## Installation
 
 ### if you are on windows 10 you have 2 options:
