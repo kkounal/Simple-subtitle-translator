@@ -91,9 +91,9 @@ When opening the programm it will print the following information on how to effe
  
  ## License
  
- I have chosen the unlincense so anyone who finds this useful may benefit from it. If you are unfamilia with it it's this:
+ I have chosen the unlincense so anyone who finds this useful may benefit from it. If you are unfamiliar with it it's this:
  
- This is free and unencumbered software released into the public domain.
+ "This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
 distribute this software, either in source code form or as a compiled
@@ -116,6 +116,6 @@ OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
-For more information, please refer to <https://unlicense.org>
+For more information, please refer to <https://unlicense.org>"
 
  <p align="right">(<a href="#readme-top">back to top</a>)</p>
