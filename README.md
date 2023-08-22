@@ -7,6 +7,8 @@ A little janky rn, will rewrite in rust when i feel like it.
 
 Update: Working on a TTS for another project right now, the rust version may be ready this autumn if everything goes smoothly.
 
+Update 2: Well things got in the way and now this project is in the  freezer once again. I still want to make a better version. 
+
 ## Installation
 
 ### if you are on windows 10 you have 2 options:
