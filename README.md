@@ -9,6 +9,14 @@ Update: Working on a TTS for another project right now, the rust version may be 
 
 Update 2: Well things got in the way and now this project is in the  freezer once again. I still want to make a better version. 
 
+Update 3: Happened to take a look at the code again and it's pretty bad so it's getting a rewrite for sure, i already have parts of the image pre-processing algorithm in the works as to improve both speed and quality. 
+
+I have noticed a small error if one tries to change the output language for translating, tesseract may complain that it doesn't have the data files for that language. You can easily find them by googling the error though and place them in the appropriate folder. 
+
+I'm thinking that once i refactor this i may also add some mode that takes a video file instead of the screen and generates a file with the subtitles for the whole video. That might deserve its own repo but for now exams have my attention so stay tuned if interested, it might take a few months. 
+
+
+
 ## Installation
 
 ### if you are on windows 10 you have 2 options:
