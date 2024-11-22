@@ -1,4 +1,7 @@
 <a name="readme-top"></a>
+
+(really old and abandonned for now project, still here mostly for emotional reasons :P)
+
 # Simple subtitle translator
 
 A simple subtitle translator using python, tesseract and Google translate! 
